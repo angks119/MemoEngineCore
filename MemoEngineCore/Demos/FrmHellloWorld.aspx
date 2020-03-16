@@ -14,7 +14,6 @@
 
             <asp:Calendar ID="Calendar1" runat="server"></asp:Calendar>
             <hr />
-
             <asp:TextBox ID="txtInput" runat="server"></asp:TextBox>
             <asp:Button ID="btnClick" runat="server" Text="클릭" OnClick="btnClick_Click" />
             <br />
